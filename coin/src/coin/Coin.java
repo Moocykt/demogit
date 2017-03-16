@@ -30,6 +30,7 @@ public class Coin {
 		System.out.println(coin.get(amount));
 		System.out.println(coin.keySet());
 		System.out.println(coin.keySet().size());
+		System.out.println("");
 
 	}
 
