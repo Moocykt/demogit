@@ -29,6 +29,7 @@ public class Coin {
 		int amount = in.nextInt();
 		System.out.println(coin.get(amount));
 		System.out.println(coin.keySet());
+		System.out.println(coin.keySet().size());
 
 	}
 
