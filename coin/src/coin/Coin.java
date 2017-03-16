@@ -28,7 +28,7 @@ public class Coin {
 		Scanner in = new Scanner(System.in);
 		int amount = in.nextInt();
 		System.out.println(coin.get(amount));
-		
+		System.out.println(coin.keySet());
 
 	}
 
